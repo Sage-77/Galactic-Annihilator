@@ -828,7 +828,7 @@ class Game:
             "[LEFT / RIGHT ARROWS] - Shift Ship Lateral Thrust",
             "[SPACEBAR]          - Primary Fire Cannons",
             "[S/R/M/P ORBS]       - Weapon Overcharges",
-            "Developed by: [Cody](https://github.com/cody-labhq)"
+            "Developed by: Sage"
         ]
         for idx, line in enumerate(ctrls):
             text_color = WHITE if idx < 3 else YELLOW
